@@ -31,7 +31,7 @@ This project demonstrates how to create a Minecraft mod using JRuby to interact 
 
    - Clone this repository:
      ```sh
-     git clone https://github.com/yourusername/minecraft-custom-mod.git
+     git clone https://github.com/Fecurity123/Minecraft-hack-ruby.git
      cd minecraft-custom-mod
      ```
 
